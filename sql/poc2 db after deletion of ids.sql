@@ -1,0 +1,1 @@
+SELECT * FROM poc2.student2;
